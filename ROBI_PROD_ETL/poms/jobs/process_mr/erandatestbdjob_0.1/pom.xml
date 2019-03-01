@@ -894,6 +894,11 @@
     </dependency>
     <dependency>
       <groupId>org.talend.libraries</groupId>
+      <artifactId>spark-mllib-local_2.11-2.0.0.cloudera1</artifactId>
+      <version>6.0.0</version>
+    </dependency>
+    <dependency>
+      <groupId>org.talend.libraries</groupId>
       <artifactId>spark-mllib-local_2.11-2.2.0.cloudera1</artifactId>
       <version>6.0.0</version>
     </dependency>
