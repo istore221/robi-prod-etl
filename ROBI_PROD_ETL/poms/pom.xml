@@ -10,6 +10,7 @@
   <url>http://www.talend.org/</url>
   <modules>
     <module>code/routines</module>
+    <module>jobs/process/erandateststjob_0.1</module>
   </modules>
   <properties>
     <talend.project.name>ROBI_PROD_ETL</talend.project.name>
