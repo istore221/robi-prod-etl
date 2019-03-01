@@ -8,6 +8,9 @@
   <packaging>pom</packaging>
   <name>ROBI_PROD_ETL Codes Master</name>
   <url>http://www.talend.org/</url>
+  <modules>
+    <module>code/routines</module>
+  </modules>
   <properties>
     <talend.project.name>ROBI_PROD_ETL</talend.project.name>
     <encoding>UTF-8</encoding>
